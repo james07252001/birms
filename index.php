@@ -49,7 +49,7 @@ require_once('inc/header.php');
         <div class="container-fluid" style="background-color: transparent;"> 
             <a class="navbar-brand" href="#">
             <img src="./img/logo.jpg" alt="" width="30" height="24">
-                <span style="color: black;   ">Bantayan Island Restobar</span>
+                <span style="color: cyan;   ">Bantayan Island Restobar</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
